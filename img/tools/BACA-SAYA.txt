@@ -1,0 +1,6 @@
+Taruh logo resmi di folder ini agar tampil di bagian "Alat":
+  excel.svg   (atau excel.png)
+  word.svg    (atau word.png)
+  powerbi.svg (atau powerbi.png)
+Logo Python dan Google Forms dimuat otomatis dari internet.
+Selama file logo belum ada, kotaknya menampilkan nama alat sebagai teks.
